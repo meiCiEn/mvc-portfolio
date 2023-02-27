@@ -1,0 +1,24 @@
+.page-bg {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+
+.page-bg--lightpink {
+    background-color: $color-5-lightest;
+}
+
+.page-bg--pink {
+    background-color: $color-5;
+}
+
+.page-bg--forestgreen {
+    background-color: $color-4;
+}
+
+.page-bg--offwhite {
+    background-color: $color-2;
+}
+
